@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "razonSocial": "TecnoSur S.A.",
+    "telefono": "011-4555-1001",
+    "email": "ventas@tecnosur.com.ar",
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "id": 2,
+    "razonSocial": "ElectroPampa S.R.L.",
+    "telefono": "0221-422-3002",
+    "email": "contacto@electropampa.com.ar",
+    "ciudad": "La Plata"
+  },
+  {
+    "id": 3,
+    "razonSocial": "Distribuidora Alimentos del Plata",
+    "telefono": "0341-478-9003",
+    "email": "pedidos@alimentosdelplata.com.ar",
+    "ciudad": "Rosario"
+  },
+  {
+    "id": 4,
+    "razonSocial": "Mayorista La Cordobesa",
+    "telefono": "0351-455-7004",
+    "email": "info@lacordobesa.com.ar",
+    "ciudad": "Córdoba"
+  },
+  {
+    "id": 5,
+    "razonSocial": "Importadora Andina S.A.",
+    "telefono": "0261-429-1005",
+    "email": "compras@importadoraandina.com.ar",
+    "ciudad": "Mendoza"
+  },
+  {
+    "id": 6,
+    "razonSocial": "Global Tech Argentina",
+    "telefono": "011-4777-2006",
+    "email": "soporte@globaltech.com.ar",
+    "ciudad": "Avellaneda"
+  }
+]
